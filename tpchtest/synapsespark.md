@@ -1,4 +1,4 @@
-# TPC-H SF10000 test with Azure Databricks using Spark SQL
+# TPC-H SF10000 test with Azure Synapse workspace Spark using Spark SQL
 
 ## Use Case
 
@@ -15,7 +15,6 @@
 - Container name for data loaded - tpchdata
 - Azure Account
 - Azure blob storage account
-- Azure Databricks
 - Azure Keyvault
 
 ## Cluster Size
